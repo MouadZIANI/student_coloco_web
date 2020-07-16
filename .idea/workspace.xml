@@ -1,17 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c72d455-c33c-48ea-9e6a-e1a9224875d0" name="Default Changelist" comment="" />
+    <list default="true" id="9c72d455-c33c-48ea-9e6a-e1a9224875d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/shared/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/shared/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/shared/login_modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/shared/register_modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/shared/slider.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/pages/demands.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/pages/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/pages/housing_details.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/pages/housings.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/profile/create_demand.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/front/profile/create_offer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Laravel_EXAM_Yassine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laravel_EXAM_Yassine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Front/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Front/PagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Housing.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Housing.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -113,9 +147,11 @@
       <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
       <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1egZoMLSPOprhsCeXQViLqjuNVS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -123,9 +159,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/front/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Education\Master ISI\S2\Backend\Laravel_EXAM_Yassine\resources\views\front\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Education\Master ISI\S2\Backend\Laravel_EXAM_Yassine\app\Models" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -143,7 +188,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594745369952</updated>
-      <workItem from="1594745373202" duration="1633000" />
+      <workItem from="1594745373202" duration="2757000" />
+      <workItem from="1594812272451" duration="1004000" />
+      <workItem from="1594813684991" duration="11956000" />
+      <workItem from="1594870319764" duration="9269000" />
     </task>
     <servers />
   </component>
@@ -151,13 +199,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="498" height="446" key="SwitcherDM" timestamp="1594745915924">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1594895708512">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1594745915924" />
-    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1594745838236">
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1594895708512" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1594870391771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594745838236" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594870391771" />
+    <state x="305" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594842207864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1594842207864" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1594892456600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594892456600" />
   </component>
 </project>
